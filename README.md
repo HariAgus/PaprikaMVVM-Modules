@@ -7,3 +7,4 @@
 - [x] Use Case
 - [x] Clean Architecture
 - [x] Flow 
+- [x] Data Mocking 

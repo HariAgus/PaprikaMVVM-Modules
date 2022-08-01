@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ModulesMVVM-DataMock</string>
+    <string name="message_error">An unexpected error occurred</string>
 </resources>

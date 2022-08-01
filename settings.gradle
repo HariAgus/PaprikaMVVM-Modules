@@ -16,3 +16,4 @@ rootProject.name = "ModulesMVVM-DataMock"
 include ':app'
 include ':domain'
 include ':data'
+include ':data-mock'
